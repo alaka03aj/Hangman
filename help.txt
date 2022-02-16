@@ -1,0 +1,12 @@
+How To Play:
+
+1.Guess a random letter.
+2.If the letter is in the word, you can continue playing. Else, one chance is gone.
+3.The player will win the game if he guess the word right.There is a total of 10 levels.
+4.The game will automatically end if all chances are used.
+
+
+Score:
+
+1.Guessing each word right gives you points.
+2.If you lose the game, 0 points will be rewarded.
