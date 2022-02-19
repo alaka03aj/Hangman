@@ -1,0 +1,2 @@
+1: Add hints for better user experience.
+2: Add time limit as well to increase difficulty in higher levels.
